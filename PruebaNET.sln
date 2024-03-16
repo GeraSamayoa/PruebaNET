@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "back-end", "back-end", "{73BE7455-1183-4EF0-829D-A914C68D801E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "front-end", "front-end", "{5474DB7B-F943-4008-B916-115F88417ADF}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EEFA176-CF00-4837-9737-B49DFF306BEC}
+	EndGlobalSection
+EndGlobal
