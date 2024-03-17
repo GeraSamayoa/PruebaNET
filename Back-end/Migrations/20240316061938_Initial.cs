@@ -6,6 +6,7 @@ using MySql.EntityFrameworkCore.Metadata;
 namespace Back_end.Migrations
 {
     /// <inheritdoc />
+    // Clase que representa la migración inicial de la base de datos para crear la tabla de Alumnos
     public partial class Initial : Migration
     {
         /// <inheritdoc />

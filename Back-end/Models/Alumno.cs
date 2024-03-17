@@ -11,8 +11,10 @@
         public char Seccion { get; set; }
         public DateTime FechaIngreso { get; set; } 
 
+        // Constructor vacío para Entity Framework para poder crear instancias de la clase
         public Alumno() { }
 
+        // Constructor
         public Alumno(int id, string nombre, DateTime fechaNacimiento, string nombrePadre, string nombreMadre, string grado, char seccion, DateTime fechaIngreso)
         {
             Id = id;

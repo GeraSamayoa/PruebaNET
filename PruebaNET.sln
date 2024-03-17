@@ -6,10 +6,13 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "back-end", "back-end", "{73BE7455-1183-4EF0-829D-A914C68D801E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "front-end", "front-end", "{5474DB7B-F943-4008-B916-115F88417ADF}"
+	ProjectSection(SolutionItems) = preProject
+		Back-end\WeatherForecast.cs = Back-end\WeatherForecast.cs
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "back-end", "Back-end\back-end.csproj", "{DF46A26A-EEC4-4869-B291-930EA5626B44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "back-end", "Back-end\back-end.csproj", "{DF46A26A-EEC4-4869-B291-930EA5626B44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "front-end", "front-end\front-end.csproj", "{5DE1BCE5-16B9-4D9A-B78D-3BCF19C322FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "front-end", "front-end\front-end.csproj", "{5DE1BCE5-16B9-4D9A-B78D-3BCF19C322FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

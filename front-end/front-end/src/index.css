@@ -23,11 +23,11 @@ a:hover {
 }
 
 body {
-  margin: 0;
-  display: flex;
-  place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
+    margin: 0;
+    min-width: 320px;
+    min-height: 100vh;
+    background: linear-gradient(to bottom, #001a29, #0a3d54, #0f608d, #137db8, #1482c4, #1482c4, #137db8, #0f608d, #0a3d54, #001a29);
+    align-items: center;
 }
 
 h1 {
@@ -66,3 +66,9 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.navbar .nav-link {
+    color: #fff !important;
+}
+
+
