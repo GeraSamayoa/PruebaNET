@@ -1,8 +1,11 @@
 # PruebaNET
 
-Requisitos para su ejecucion
+Requisitos para su ejecucion:
+
 Node
+
 Visual Studio 2022
+
 .NET 8
 
 Ejecucion del programa
