@@ -8,7 +8,7 @@ Visual Studio 2022
 
 .NET 8
 
-Ejecucion del programa
+# Ejecucion del programa
 # Backend
 1.  Al clonar este repositorio en nuestra maquina local y abrirlo en Visual Studio,
 procedemos a abrir la solucion PruebaNET.sln y nos quedaran dos carpetas una
